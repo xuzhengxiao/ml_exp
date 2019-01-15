@@ -4,10 +4,10 @@ This is experience from bestfittng.
 * find and learn from similar competition's solution.
 * keep tracing up-to-date development in this area and reading releated papers.
 * **analysize data and build a stable cross-validation dataset.**
-* data proprocessing,feature engineering and model training
+* data proprocessing,feature engineering and model training.
 * **analysize results,such as prediction distribution,error analysis and specific sample analysis.**
 * refine model or design new moedl according analysis result.
-* emsemble
+* emsemble.
 * return to beginning when necessary.
 
 # hyper parameters
