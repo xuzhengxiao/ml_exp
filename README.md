@@ -15,5 +15,5 @@ This is experience from bestfittng.
 * compare results between different sets,such as prediction distribution and affected samples.
 
 # cv
-* To build a stable cv dataset,you must understand data and difficulties as better as possible.examine the distribution of validation data is similar to train data.
+* To build a stable cv dataset,you must understand data and difficulties profoundly.examine the distribution of validation data is similar to train data.
 
