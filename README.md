@@ -1,4 +1,4 @@
-This is experience from bestfittng.
+This is experience from bestfitting.
 # preparation
 * read introduction and data description carefully.
 * find and learn from similar competition's solution.
