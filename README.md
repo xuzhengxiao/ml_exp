@@ -1,7 +1,7 @@
 This is experience from bestfittng.
 # preparation
 * read introduction and data description carefully.
-* find and learn from similar competition's solotion.
+* find and learn from similar competition's solution.
 * keep tracing up-to-date development in this area and reading releated papers.
 * **analysize data and build a stable cross-validation dataset.**
 * data proprocessing,feature engineering and model training
